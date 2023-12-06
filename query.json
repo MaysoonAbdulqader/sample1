@@ -1,0 +1,20 @@
+[{
+    "index": "job_application",
+    "filter": {
+        "$or": [
+            {
+                "job_offers": {
+                    "$ne": []
+                }
+            },
+            {
+                "interview": {
+                    "$ne": null
+                }
+            },
+            {
+                "_id":"652e2b1d728e6121cfead213"
+            }
+        ]
+    }
+}]
