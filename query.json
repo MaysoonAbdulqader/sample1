@@ -2,7 +2,7 @@
     {
         "index": "job_post",
         "filter": {
-            "_id": "65689b57c7887d112aa9632d"
+            "_id": ObjectId("65689b57c7887d112aa9632d")
         }
     }
 ]
